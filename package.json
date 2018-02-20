@@ -1,0 +1,22 @@
+{
+    "dependencies": {
+        "vhal.zerynth.xtensalx106_esp8266": "r2.0.11"
+    },
+    "description": "Driver for ESP8266 Wifi SoC",
+    "fullname": "lib.espressif.esp8266wifi",
+    "git_pointer": "zerynth://zerynth-libs/espressif-esp8266wifi",
+    "info": {
+        "chip_manufacturer": "Espressif",
+        "chip_name": "ESP8266",
+        "name": "Wi-Fi Driver",
+        "type": "Connectivity"
+    },
+    "keywords": [
+        "wireless",
+        "wifi"
+    ],
+    "repo": "official",
+    "title": "ESP8266 Wifi",
+    "version": "r2.0.11",
+    "whatsnew": ""
+}

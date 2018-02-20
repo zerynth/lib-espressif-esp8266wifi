@@ -1,0 +1,8 @@
+{
+	"version":"1.0.0",
+	"title":"esp8266wifi",
+	"copyright":"Zerynth Team",
+	"files":[
+		["ESP8266WIFI","esp8266wifi.py"]
+	]
+}
