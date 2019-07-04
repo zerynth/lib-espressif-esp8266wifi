@@ -1,0 +1,13 @@
+---
+description: Driver for ESP8266 Wifi SoC
+fullname: lib.espressif.esp8266wifi
+info:
+    chip_manufacturer: Espressif
+    chip_name: ESP8266
+    name: Wi-Fi Driver
+    type: Connectivity
+keywords:
+- wireless
+- wifi
+title: ESP8266 Wifi
+...
